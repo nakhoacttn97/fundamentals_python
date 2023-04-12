@@ -1,0 +1,24 @@
+A. Bài tập + Ví dụ minh họa
+1. Nhập vào n điểm của một học sinh. Tính và in ra điểm trung bình
+2. Nhập vào họ tên của một học sinh, nhập n các tên môn và điểm của một học sinh. 
+    In ra bảng điểm và điểm trung bình
+
+B. Bài tập làm thêm
+1. Tìm thú trong vườn thú (bài 7.1). HD: dùng list
+2. Danh bạ điện thoại (bài 7.7). HD: dùng dictionary
+3. Nhập vào n số nguyên và cho biết: dùng list
+    - Tổng các số nguyên
+    - Tìm số lớn nhất, số nhỏ nhất
+    - Sắp xếp tăng dần, giảm dần
+4. Nhập vào danh sách (list) họ tên của n học sinh. Sắp xếp theo tên tăng dần
+5. Từ điển (bài 7.8). HD: dùng dictionary
+6. Xây dựng menu cho các xử lý của bài 3
+7. Quản lý danh sách tên phim với các chức năng như sau:
+    - In danh sách phim
+    - Thêm một tên phim mới
+    - Sắp tăng theo tên phim
+    - Sắp giảm theo tên phim
+    - Xóa phim có số thứ tự nhập vào
+    - Sửa phim có số thứ tự nhập vào
+    - Tìm phim theo tên phim nhập vào 
+        (cho phép tìm gần đúng. Ví dụ tìm các phim có chứa từ ghost)

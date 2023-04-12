@@ -1,0 +1,14 @@
+<DANH_SACH>
+    <PHIM Ten="Tiếng chim hót trong bụi mận gai" Nam_san_xuat="1982">
+        <The_loai>Tình cảm</The_loai>
+        <Dinh_dang>DVD</Dinh_dang>
+    </PHIM>
+    <PHIM Ten="Chiến tranh và Hòa bình" Nam_san_xuat="1981">
+        <The_loai>Tình cảm, Chiến tranh</The_loai>
+        <Dinh_dang>DVD</Dinh_dang>
+    </PHIM>
+    <PHIM Ten="Người đẹp và Quái vật" Nam_san_xuat="1990">
+        <The_loai>Tình cảm, Hoạt hình</The_loai>
+        <Dinh_dang>VHS</Dinh_dang>
+    </PHIM>
+</DANH_SACH>
